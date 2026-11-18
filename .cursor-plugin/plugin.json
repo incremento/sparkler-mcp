@@ -1,0 +1,11 @@
+{
+  "name": "sparkler",
+  "description": "Make presentation decks your audience joins from their phones, with live votes, questions and a follow-up email after the talk.",
+  "version": "1.0.0",
+  "author": {"name": "Incremento Ltd", "email": "hello@withsparkler.com"},
+  "homepage": "https://withsparkler.com/docs",
+  "repository": "https://github.com/incremento/sparkler-mcp",
+  "license": "MIT",
+  "keywords": ["presentations", "slides", "audience", "polls", "workshops", "talks"],
+  "logo": "assets/logo.png"
+}

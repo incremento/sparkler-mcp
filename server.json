@@ -1,0 +1,15 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.withsparkler/sparkler",
+  "title": "Sparkler",
+  "description": "Make presentation decks your audience joins from their phones: live votes, questions and follow-up.",
+  "version": "1.0.0",
+  "websiteUrl": "https://withsparkler.com/docs",
+  "icons": [
+    {"src": "https://withsparkler.com/brand/png/icon-light-256.png", "mimeType": "image/png", "sizes": ["256x256"]},
+    {"src": "https://withsparkler.com/brand/icon/icon-light.svg", "mimeType": "image/svg+xml", "sizes": ["any"]}
+  ],
+  "remotes": [
+    {"type": "streamable-http", "url": "https://withsparkler.com/mcp"}
+  ]
+}
