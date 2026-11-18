@@ -3,13 +3,32 @@
   "name": "com.withsparkler/sparkler",
   "title": "Sparkler",
   "description": "Make presentation decks your audience joins from their phones: live votes, questions and follow-up.",
-  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/incremento/sparkler-mcp",
+    "source": "github"
+  },
+  "version": "1.0.1",
   "websiteUrl": "https://withsparkler.com/docs",
   "icons": [
-    {"src": "https://withsparkler.com/brand/png/icon-light-256.png", "mimeType": "image/png", "sizes": ["256x256"]},
-    {"src": "https://withsparkler.com/brand/icon/icon-light.svg", "mimeType": "image/svg+xml", "sizes": ["any"]}
+    {
+      "src": "https://withsparkler.com/brand/png/icon-light-256.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "256x256"
+      ]
+    },
+    {
+      "src": "https://withsparkler.com/brand/icon/icon-light.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
   ],
   "remotes": [
-    {"type": "streamable-http", "url": "https://withsparkler.com/mcp"}
+    {
+      "type": "streamable-http",
+      "url": "https://withsparkler.com/mcp"
+    }
   ]
 }
